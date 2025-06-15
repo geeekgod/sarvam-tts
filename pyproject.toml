@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "sarvam-tts"
 version = "0.1.0"
-description = ""
+description = "Streamlit chatbot with Sarvam AI text-to-speech."
 authors = ["Rishabh Singh <ris8645208@gmail.com>"]
 readme = "README.md"
 
