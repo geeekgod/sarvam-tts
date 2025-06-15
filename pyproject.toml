@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "sarvam-tts"
+version = "0.1.0"
+description = ""
+authors = ["Rishabh Singh <ris8645208@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+streamlit = "^1.45.1"
+streamlit-chatbox = "^1.1.13.post1"
+python-dotenv = "^1.1.0"
+groq = "^0.28.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
